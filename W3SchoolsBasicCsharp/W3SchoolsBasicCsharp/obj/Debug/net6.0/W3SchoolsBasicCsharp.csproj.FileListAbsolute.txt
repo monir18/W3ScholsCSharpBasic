@@ -1,0 +1,15 @@
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\bin\Debug\net6.0\W3SchoolsBasicCsharp.exe
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\bin\Debug\net6.0\W3SchoolsBasicCsharp.deps.json
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\bin\Debug\net6.0\W3SchoolsBasicCsharp.runtimeconfig.json
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\bin\Debug\net6.0\W3SchoolsBasicCsharp.dll
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\bin\Debug\net6.0\W3SchoolsBasicCsharp.pdb
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\obj\Debug\net6.0\W3SchoolsBasicCsharp.csproj.AssemblyReference.cache
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\obj\Debug\net6.0\W3SchoolsBasicCsharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\obj\Debug\net6.0\W3SchoolsBasicCsharp.AssemblyInfoInputs.cache
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\obj\Debug\net6.0\W3SchoolsBasicCsharp.AssemblyInfo.cs
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\obj\Debug\net6.0\W3SchoolsBasicCsharp.csproj.CoreCompileInputs.cache
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\obj\Debug\net6.0\W3SchoolsBasicCsharp.dll
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\obj\Debug\net6.0\refint\W3SchoolsBasicCsharp.dll
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\obj\Debug\net6.0\W3SchoolsBasicCsharp.pdb
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\obj\Debug\net6.0\W3SchoolsBasicCsharp.genruntimeconfig.cache
+F:\W3SchoolsCourses\W3ScholsCSharpBasic\W3SchoolsBasicCsharp\W3SchoolsBasicCsharp\obj\Debug\net6.0\ref\W3SchoolsBasicCsharp.dll
